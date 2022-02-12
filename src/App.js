@@ -6,10 +6,12 @@ function App() {
     <div className="slimstyles">
       <div className='container-fluid'>
         <div className='row'>
-        <div className='col-md-12'>
-          <h1>Hello</h1>
-          </div>
+          <div className='header'>
+          <h1>Slim Styls</h1></div>
         </div>
+      </div>
+      <div className='body'>
+        
       </div>
     </div>
   );
